@@ -1,4 +1,4 @@
 # midterm
-port 3000 for localhost 
-path for get — "store/:key"
-path for put — "store/:key/:value"
+port 3000 for localhost <br />
+path for get — "store/:key" <br />
+path for put — "store/:key/:value" <br />
